@@ -1,0 +1,1 @@
+Try to create real time chat system working like Whatsapp using php not using websocket, Since im hosted this locally. im using ngrok tools that allow me to make it like being deploy globally by providing generating a temporary link (my system can be access by everyone through the url) so i can ensure that the system work properly as intended :).
